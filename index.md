@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+This is the splash page that links all of my different notebooks. These notebooks contain notes ranging from classes I'm currently taking, to pentesting tips and tricks, to code snippets. Feel free to use them in your adventures.
 
-You can use the [editor on GitHub](https://github.com/aheath9/pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Georgia Institute of Technology
 
-### Markdown
+* [CS6200: Graduate Introduction to Operating Systems](https://aheath.github.io/pages/pdfs/cs6200.pdf)
+* [CS6210: Advanced Operating Systems](https://cs6210.austinheath.dev)
+  * [Paper Summary for "Free Transactions with Rio Vista" by David E. Lowell and Peter M. Chen](https://austinheath.dev/pages/pdfs/free_transactions_with_rio_vista_paper_summary.pdf)
+  * [Paper Summary for "The Protection of Information in Computer Systems" by Jerome H. Saltzer and Michael D. Schroeder](https://austinheath.dev/pages/pdfs/the_protection_of_information_in_computer_systems_paper_summary.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## SANS Institute
 
-# Header 1
-## Header 2
-### Header 3
+* [FOR610 - Reverse-Engineering Malware: Malware Analysis Tools and Techniques](https://austinheath.dev/pages/pdfs/for610.pdf)
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## Miscellaneous
 
-**Bold** and _Italic_ and `Code` text
+* [Pentesting Notes](https://pentesting.austinheath.dev)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aheath9/pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
