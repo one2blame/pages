@@ -8,7 +8,6 @@ This is the splash page that links all of my different notebooks. These notebook
 * [CS6210: Advanced Operating Systems](https://one2bla.me/pages/pdfs/cs6210.pdf)
   * [Paper Summary for "Free Transactions with Rio Vista" by David E. Lowell and Peter M. Chen](https://one2bla.me/pages/pdfs/free_transactions_with_rio_vista_paper_summary.pdf)
   * [Paper Summary for "The Protection of Information in Computer Systems" by Jerome H. Saltzer and Michael D. Schroeder](https://one2bla.me/pages/pdfs/the_protection_of_information_in_computer_systems_paper_summary.pdf)
-* [CS6265: Information Security Lab - Reverse Engineering and Binary Exploitation](https://one2bla.me/binex)
 
 ---
 
@@ -20,6 +19,7 @@ This is the splash page that links all of my different notebooks. These notebook
 
 ## Miscellaneous
 
+* [Binary Exploitation Notes](https://one2bla.me/binex)
 * [Pentesting Notes](https://pentesting.one2bla.me)
 * [Quizlet](https://quizlet.com/Austin_Heath30)
 
