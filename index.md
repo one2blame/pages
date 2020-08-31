@@ -4,7 +4,7 @@ This is the splash page that links all of my different notebooks. These notebook
 
 ## Georgia Institute of Technology
 
-* [CS6200: Graduate Introduction to Operating Systems](https://one2bla.me/pages/pdfs/cs6200.pdf)
+* [CS6200: Graduate Introduction to Operating Systems](https://github.com/one2blame/cs6200)
 * [CS6210: Advanced Operating Systems](https://one2bla.me/pages/pdfs/cs6210.pdf)
   * [Paper Summary for "Free Transactions with Rio Vista" by David E. Lowell and Peter M. Chen](https://one2bla.me/pages/pdfs/free_transactions_with_rio_vista_paper_summary.pdf)
   * [Paper Summary for "The Protection of Information in Computer Systems" by Jerome H. Saltzer and Michael D. Schroeder](https://one2bla.me/pages/pdfs/the_protection_of_information_in_computer_systems_paper_summary.pdf)
