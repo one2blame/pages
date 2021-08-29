@@ -9,7 +9,7 @@ This is the splash page that links all of my different notebooks. These notebook
 * [CS6250: Computer Networks](https://one2bla.me/cs6250)
 * [CS6262: Network Security](https://github.com/one2blame/cs6262)
 * [CS6265: Information Security Lab - Reverse Engineering and Binary Exploitation](https://github.com/one2blame/cs6265)
-* [CS6747: Advanced Malware Analysis](https://one2bla.me/cs6747)
+* [CS6747: Advanced Malware Analysis](https://github.com/one2blame/cs6747)
 
 ---
 
